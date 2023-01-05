@@ -1,11 +1,11 @@
 import React from 'react'
-import Project1 from './components/project1/project1'
-import Todo from './components/project1/project1'
+import Project2 from './components/project2/project2'
+//import Todo from './components/project2/project2'
 
 const App = () => {
   return (
     <>
-    <Project1/>
+    <Project2/>
     </>
   )
 }
